@@ -127,6 +127,62 @@
         "goofy"
       ],
       "id": "12"
+    },
+    {
+      "name": "Karl",
+      "species": "Doge",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Karl",
+      "species": "Koala",
+      "diet": "folivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "Joe",
+      "species": "Tiger",
+      "diet": "folivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "Kel",
+      "species": "Lemur",
+      "diet": "omnivore",
+      "personalityTraits": [],
+      "id": "16"
+    },
+    {
+      "name": "Sal",
+      "species": "Lizard",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "17"
+    },
+    {
+      "name": "Ken",
+      "species": "Lizard",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "18"
     }
   ]
 }
