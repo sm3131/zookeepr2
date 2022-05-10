@@ -117,6 +117,16 @@
         "zany"
       ],
       "id": "11"
+    },
+    {
+      "name": "Kevin",
+      "species": "Koala",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious",
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
